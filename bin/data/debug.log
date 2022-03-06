@@ -6699,3 +6699,14 @@ CTransaction(hash=696e539fac, ver=2, vin.size=1, vout.size=2, nLockTime=156)
 2022-03-06 20:31:51 Potential stale tip detected, will try using extra outbound peer (last tip update: 512 seconds ago)
 2022-03-06 20:34:51 Potential stale tip detected, will try using extra outbound peer (last tip update: 692 seconds ago)
 2022-03-06 20:36:12 UpdateTip: new best=625a3fc69dd17d538cb7cbcb00cbc4936704daa43c44a65092b691718c6a36e1 height=4694 version=0x20000000 log2_work=32.42313 tx=4916 date='2022-03-06 20:36:04' progress=1.000000 cache=0.0MiB(108txo)
+2022-03-06 20:39:05 UpdateTip: new best=d2b007aa23ccf0173f437ca7def419485753c1b77e83bf13c16ba4a90828a8d2 height=4695 version=0x20000000 log2_work=32.423709 tx=4917 date='2022-03-06 20:39:02' progress=1.000000 cache=0.0MiB(109txo)
+2022-03-06 20:39:10 tor: Thread interrupt
+2022-03-06 20:39:10 opencon thread exit
+2022-03-06 20:39:10 addcon thread exit
+2022-03-06 20:39:10 scheduler thread interrupt
+2022-03-06 20:39:10 torcontrol thread exit
+2022-03-06 20:39:10 Shutdown: In progress...
+2022-03-06 20:39:10 msghand thread exit
+2022-03-06 20:39:10 net thread exit
+2022-03-06 20:39:10 Dumped mempool: 0s to copy, 0.003009s to dump
+2022-03-06 20:39:10 Shutdown: done
