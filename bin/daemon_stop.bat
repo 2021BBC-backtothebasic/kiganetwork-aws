@@ -1,0 +1,1 @@
+./kigacoind.exe -conf=%cd%/kigacoin.conf -datadir=%cd%/data -printtoconsole

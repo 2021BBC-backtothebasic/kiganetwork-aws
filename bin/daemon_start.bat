@@ -1,0 +1,1 @@
+./kigacoind.exe -conf=C:\Users\KGA_14\Downloads\kigacoin_win_bin\kigacoin_win_bin\bin -datadir=C:\Users\KGA_14\Downloads\kigacoin_win_bin\kigacoin_win_bin\bin/data -printtoconsole

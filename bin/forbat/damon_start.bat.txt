@@ -1,0 +1,1 @@
+./kigacoind.exe -conf=$PWD/kigacoin.conf -datadir=$PWD/data -printtoconsole

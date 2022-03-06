@@ -1,0 +1,1 @@
+./kigacoind-cli.exe -conf=$PWD/kigacoin.conf -datadir=$PWD/data stop

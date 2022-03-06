@@ -1,0 +1,2 @@
+$getCommand = Read-Host "Enter the Command"
+.\kigacoin-cli.exe -datadir=C:\Users\KGA_14\Documents\kiga2\kigacoin_win_bin\bin\data -conf=C:\Users\KGA_14\Documents\kiga2\kigacoin_win_bin\bin $getCommand
